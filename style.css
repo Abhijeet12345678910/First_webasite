@@ -1,0 +1,19 @@
+.bb {
+    margin-left: 550px;
+}
+
+button {
+    background-color: cornflowerblue;
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+
+.contaner {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.gif {
+    margin-bottom: 60px;
+}
